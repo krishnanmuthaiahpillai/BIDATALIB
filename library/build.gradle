@@ -38,4 +38,5 @@ dependencies {
     compile 'org.apache.httpcomponents:httpcore:4.2.4'
     compile 'org.apache.httpcomponents:httpmime:4.3'
     compile 'id.zelory:compressor:2.1.0'
+    compile 'com.iceteck.silicompressorr:silicompressor:2.1'
 }
