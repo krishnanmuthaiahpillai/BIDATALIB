@@ -37,4 +37,5 @@ dependencies {
     compile 'com.android.support:design:27.+'
     compile 'org.apache.httpcomponents:httpcore:4.2.4'
     compile 'org.apache.httpcomponents:httpmime:4.3'
+    compile 'id.zelory:compressor:2.1.0'
 }
