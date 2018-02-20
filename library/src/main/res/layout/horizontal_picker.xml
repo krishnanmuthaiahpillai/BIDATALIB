@@ -35,7 +35,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-        <com.bidata.mylibrary.HorizontalPickerRecyclerView
+        <com.bidata.library.HorizontalPicker.HorizontalPickerRecyclerView
         android:id="@+id/rvDays"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
