@@ -60,5 +60,5 @@ dependencies {
     compile 'com.romandanylyk:pageindicatorview:1.0.0'
     compile 'commons-validator:commons-validator:1.6'
     compile 'com.github.lzyzsd:circleprogress:1.2.1'
-    implementation files('libs/devsmartlib.jar')
+    //implementation files('libs/devsmartlib.jar')
 }
