@@ -8,4 +8,8 @@
      <!-- GENERAL -->
     <dimen name="default_stroke_width">7dp</dimen>
     <dimen name="default_background_stroke_width">3dp</dimen>
+
+    <dimen name="alert_width">@dimen/_250sdp</dimen>
+    <dimen name="common_circle_width">@dimen/_5sdp</dimen>
+    <dimen name="progress_circle_radius">@dimen/_40sdp</dimen>
 </resources>
