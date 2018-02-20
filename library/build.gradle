@@ -41,5 +41,5 @@ dependencies {
     compile 'com.pnikosis:materialish-progress:1.0'
     compile 'hanks.xyz:htextview-library:0.1.5'
     compile 'pl.droidsonroids.gif:android-gif-drawable:1.2.8'
-
+    compile 'uk.co.chrisjenx:calligraphy:2.2.0'
 }
