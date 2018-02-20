@@ -41,4 +41,5 @@ dependencies {
     compile 'com.iceteck.silicompressorr:silicompressor:2.1'
     compile 'com.pnikosis:materialish-progress:1.0'
     compile 'hanks.xyz:htextview-library:0.1.5'
+    compile 'pl.droidsonroids.gif:android-gif-drawable:1.2.8'
 }
